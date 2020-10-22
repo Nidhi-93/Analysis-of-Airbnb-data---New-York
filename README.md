@@ -1,1 +1,4 @@
 # Analysis-of-Airbnb-data---New-York
+Since 2008, visitors and hosts have utilized Airbnb to develop voyaging conceivable outcomes and present a more novel, customized method of encountering the world. Today, Airbnb got exceptional assistance that is utilized and perceived by the entire world. Data analysis on millions of listings provided through Airbnb is a crucial factor for the company. These great many postings create a ton of information - information that can be examined and utilized for security, business choices, comprehension of clients' and suppliers' conduct and execution on the stage, guiding marketing initiatives, implementation of innovative additional services and much more.
+This dataset has around 49,000 observations in it with 16 columns and it is a mix between categorical and numeric values.
+Presenting the code for analysis of the data.
